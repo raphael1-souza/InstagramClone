@@ -9,4 +9,4 @@ As bibliotecas usadas estão no arquivo `package.json`
 
 # Screenshots
 
-<img src="https://user-images.githubusercontent.com/19395842/51060131-c0e59700-15d5-11e9-89c9-b772f4cae6c3.gif" height="500"> <img src="https://user-images.githubusercontent.com/19395842/51060280-68fb6000-15d6-11e9-8c3e-79a22827ab0f.gif" height="500">
+<img src="https://user-images.githubusercontent.com/23104752/51093952-465c7900-1787-11e9-8727-3d36aa58eb22.jpeg" height="500" width="242"> <img src="https://user-images.githubusercontent.com/19395842/51060280-68fb6000-15d6-11e9-8c3e-79a22827ab0f.gif" height="500">
